@@ -246,8 +246,8 @@ temperatureswitch.hotend.heatup_poll         3                             # pol
 
 # kill button (used to be called pause) maybe assigned to a different pin, set to the onboard pin by default
 kill_button_enable                           true                          # set to true to enable a kill button
-kill_button_pin                              2.12                          # kill button pin. 
-   
+kill_button_pin                              2.12                          # kill button pin.
+
 # Panel See http://smoothieware.org/panel
 panel.enable                                 true                          # set to true to enable the panel code
 
