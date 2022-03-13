@@ -155,7 +155,7 @@ temperature_control.hotend.i_factor              2.50                      #
 temperature_control.hotend.d_factor              35                        #
 
 
-# Heated Bed Configuration 
+# Heated Bed Configuration
 temperature_control.bed.enable               true                          #
 temperature_control.bed.thermistor_pin       0.23                          #
 temperature_control.bed.heater_pin           2.7                           #
